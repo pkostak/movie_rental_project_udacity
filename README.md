@@ -1,27 +1,25 @@
-# Version Control with Git
+# Movie Rental Project for Udacity Nanodegree
 
-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+This is the repo of the SQL project from the Programming for Data Science with
+Python Nanodegree.
 
-This repo contains the source code of a blog project that will be used throughout the course.
+This repo contains the source code and all associated files for the project.
 
-## Table of Contents
+### Date created
+Sunday March, 18 2021
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+### Project Title
+Investigate a Relational Database - Sakila Movie Database
 
-## Instructions
+### Description
+Project is final project of Programming for Data Science with Python Nanodegree.
+Project focuses on using Git and a remote repository on Github.
 
-* clone the project
-* open the index file in a browser
+### Files used
+dvd_rental_erd.pdf
+README.md
+sql_project_submission_pgk.sql
+sql_project_working.sql
 
-## Creators
-
-* Richard Kalehoff
-    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-
-With the help of:
-
-* Colt
-* James
-* Julia
+### Credits
+Project was forked from created for Nanodegree. Data was supplied by Udacity.
