@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="https://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>SQL Workbench/J</LastAuthor>
+<Created>2021-01-12T00:36:45</Created>
+</DocumentProperties>
+<Styles>
+  <Style ss:ID="wbHeader"><Font ss:Bold="1"/></Style>
+  <Style ss:ID="wbTS"><NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/></Style>
+  <Style ss:ID="wbML"><Alignment ss:Vertical="Top" ss:WrapText="1"/></Style>
+  <Style ss:ID="wbNW"><Alignment ss:Vertical="Top" ss:WrapText="0"/></Style>
+</Styles>
+<Worksheet ss:Name="Export">
+<Table ss:ExpandedColumnCount="4" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Row>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">full_name</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">num_payments</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">total_paid_bymonth</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">amt_per_payment</Data></Cell>
+</Row>
+<Row>
+  <Cell><Data ss:Type="String">Ana Bradley</Data></Cell>
+  <Cell><Data ss:Type="Number">33</Data></Cell>
+  <Cell><Data ss:Type="Number">167.67</Data></Cell>
+  <Cell><Data ss:Type="Number">5.0809090909090909</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Rhonda Kennedy</Data></Cell>
+  <Cell><Data ss:Type="Number">38</Data></Cell>
+  <Cell><Data ss:Type="Number">191.62</Data></Cell>
+  <Cell><Data ss:Type="Number">5.0426315789473684</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Marion Snyder</Data></Cell>
+  <Cell><Data ss:Type="Number">39</Data></Cell>
+  <Cell><Data ss:Type="Number">194.61</Data></Cell>
+  <Cell><Data ss:Type="Number">4.9900000000000000</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Karl Seal</Data></Cell>
+  <Cell><Data ss:Type="Number">42</Data></Cell>
+  <Cell><Data ss:Type="Number">208.58</Data></Cell>
+  <Cell><Data ss:Type="Number">4.9661904761904762</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Tommy Collazo</Data></Cell>
+  <Cell><Data ss:Type="Number">37</Data></Cell>
+  <Cell><Data ss:Type="Number">183.63</Data></Cell>
+  <Cell><Data ss:Type="Number">4.9629729729729730</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Mike Way</Data></Cell>
+  <Cell><Data ss:Type="Number">33</Data></Cell>
+  <Cell><Data ss:Type="Number">162.67</Data></Cell>
+  <Cell><Data ss:Type="Number">4.9293939393939394</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Clara Shaw</Data></Cell>
+  <Cell><Data ss:Type="Number">40</Data></Cell>
+  <Cell><Data ss:Type="Number">189.60</Data></Cell>
+  <Cell><Data ss:Type="Number">4.7400000000000000</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Eleanor Hunt</Data></Cell>
+  <Cell><Data ss:Type="Number">45</Data></Cell>
+  <Cell><Data ss:Type="Number">211.55</Data></Cell>
+  <Cell><Data ss:Type="Number">4.7011111111111111</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Curtis Irby</Data></Cell>
+  <Cell><Data ss:Type="Number">38</Data></Cell>
+  <Cell><Data ss:Type="Number">167.62</Data></Cell>
+  <Cell><Data ss:Type="Number">4.4110526315789474</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="String">Marcia Dean</Data></Cell>
+  <Cell><Data ss:Type="Number">39</Data></Cell>
+  <Cell><Data ss:Type="Number">166.61</Data></Cell>
+  <Cell><Data ss:Type="Number">4.2720512820512821</Data></Cell>
+</Row>
+
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+  <Selected/>
+<FreezePanes/>
+<FrozenNoSplit/>
+  <SplitHorizontal>1</SplitHorizontal>
+<TopRowBottomPane>1</TopRowBottomPane>
+<ActivePane>2</ActivePane>
+</WorksheetOptions>
+<AutoFilter x:Range="R1C1:R1C4" xmlns="urn:schemas-microsoft-com:office:excel"></AutoFilter>
+</Worksheet>
+</Workbook>

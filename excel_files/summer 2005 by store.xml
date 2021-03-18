@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="https://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<LastAuthor>SQL Workbench/J</LastAuthor>
+<Created>2021-01-12T00:41:38</Created>
+</DocumentProperties>
+<Styles>
+  <Style ss:ID="wbHeader"><Font ss:Bold="1"/></Style>
+  <Style ss:ID="wbTS"><NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/></Style>
+  <Style ss:ID="wbML"><Alignment ss:Vertical="Top" ss:WrapText="1"/></Style>
+  <Style ss:ID="wbNW"><Alignment ss:Vertical="Top" ss:WrapText="0"/></Style>
+</Styles>
+<Worksheet ss:Name="Export">
+<Table ss:ExpandedColumnCount="5" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Column ss:AutoFitWidth="1"/>
+<Row>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">rent_month</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">rent_year</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">store_id</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">num_rentals</Data></Cell>
+  <Cell ss:StyleID="wbHeader"><Data ss:Type="String">sum</Data></Cell>
+</Row>
+<Row>
+  <Cell><Data ss:Type="Number">6</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">1</Data></Cell>
+  <Cell><Data ss:Type="Number">1008</Data></Cell>
+  <Cell><Data ss:Type="Number">4137.92</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="Number">6</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">2</Data></Cell>
+  <Cell><Data ss:Type="Number">1007</Data></Cell>
+  <Cell><Data ss:Type="Number">4211.93</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="Number">7</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">1</Data></Cell>
+  <Cell><Data ss:Type="Number">3346</Data></Cell>
+  <Cell><Data ss:Type="Number">14070.54</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="Number">7</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">2</Data></Cell>
+  <Cell><Data ss:Type="Number">3367</Data></Cell>
+  <Cell><Data ss:Type="Number">14307.33</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="Number">8</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">1</Data></Cell>
+  <Cell><Data ss:Type="Number">2892</Data></Cell>
+  <Cell><Data ss:Type="Number">12072.08</Data></Cell>
+</Row>
+
+<Row>
+  <Cell><Data ss:Type="Number">8</Data></Cell>
+  <Cell><Data ss:Type="Number">2005</Data></Cell>
+  <Cell><Data ss:Type="Number">2</Data></Cell>
+  <Cell><Data ss:Type="Number">2794</Data></Cell>
+  <Cell><Data ss:Type="Number">11998.06</Data></Cell>
+</Row>
+
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+  <Selected/>
+<FreezePanes/>
+<FrozenNoSplit/>
+  <SplitHorizontal>1</SplitHorizontal>
+<TopRowBottomPane>1</TopRowBottomPane>
+<ActivePane>2</ActivePane>
+</WorksheetOptions>
+<AutoFilter x:Range="R1C1:R1C5" xmlns="urn:schemas-microsoft-com:office:excel"></AutoFilter>
+</Worksheet>
+</Workbook>
